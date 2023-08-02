@@ -1,7 +1,7 @@
 ---
 title: "Stress inference from abdominal sounds using machine learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-number-4
 excerpt: 'TL;DR  We present our pioneering findings that human stress levels can be determined with a certain degree of precision through abdominal sound analysis.'
 date: 2022-07-11
 venue: '44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'

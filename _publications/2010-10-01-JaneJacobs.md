@@ -1,7 +1,7 @@
 ---
 title: "Jane Jacobs in the sky: predicting urban vitality with open satellite data"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-number-2
 excerpt: 'TL;DR Our study demonstrates the utility of open Sentinel-2 satellite imagery in assessing the vitality of diverse city neighborhoods. This reinforces renowned urban theory by  Jane Jacobs, identifying key elements that foster pedestrian activity and vibrant neighborhoods.'
 date: 2021-09-28
 venue: 'Proceedings of the ACM on Human-Computer Interaction'

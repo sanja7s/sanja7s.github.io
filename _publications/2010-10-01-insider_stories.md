@@ -1,7 +1,7 @@
 ---
 title: "Insider stories: analyzing internal sustainability efforts of major US companies from online reviews"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-number-1
 excerpt: 'TL;DR While many modern corporations proclaim their commitment to Corporate Social Responsibility (CSR), allegations of "greenwashing" are not uncommon. This study employs Glassdoor reviews to quantify an underexplored facet of CSR -- internal sustainability. This broad term encapsulates various policies targeted towards internal stakeholders, such as advocating for a balanced work-life ecosystem, prioritizing gender equality and diversity, and fostering a harassment-free work environment.'
 date: 2023-06-09
 venue: 'Nature Humanities and Social Sciences Communications 10 (1), 1-9'

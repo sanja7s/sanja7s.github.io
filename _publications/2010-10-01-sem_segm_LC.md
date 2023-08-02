@@ -1,7 +1,7 @@
 ---
 title: "Wide-area land cover mapping with Sentinel-1 imagery using deep learning semantic segmentation models"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-number-3
 excerpt: 'TL;DR This paper was our assessment of state-of-the-art semantic segmentation deep learning models for the crucial task land cover mapping.'
 date: 2021-09-28
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'

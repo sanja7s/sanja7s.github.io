@@ -1,7 +1,7 @@
 ---
 title: "Quantifying the impact of positive stress on companies from online employee reviews"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-number-7
 excerpt: 'TL;DR Our study unveils the under-recognized "positive stress" phenomenon within employee reviews across S&P 500 companies. Notably, we highlight its positive association with long-term company stock growth.'
 date: 2023-01-28
 venue: 'Nature Scientific Reports 13 (1), 1603'
